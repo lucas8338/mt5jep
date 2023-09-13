@@ -1,2 +1,8 @@
-.idea
-bin
+*
+!src/
+!lib/
+!resources/
+!.gitignore
+!description.yaml
+!LICENSE
+!README.md
